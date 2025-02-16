@@ -1,0 +1,14 @@
+tensorflow==2.13.0
+keras==2.13.1
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+pandas==1.5.3
+opencv-python==4.7.0.72
+Flask==2.2.5
+Flask-Uploads==0.2.1
+Werkzeug==2.2.3
+Pillow==9.4.0
+requests==2.31.0
+gunicorn==20.1.0
